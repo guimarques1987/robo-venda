@@ -1,0 +1,5 @@
+{
+  "name": "Bot de Vendas WhatsApp",
+  "description": "Chatbot especializado em vendas de cardápio digital integrado com Evolution API e Gemini 3.1 Pro.",
+  "requestFramePermissions": []
+}
